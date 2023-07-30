@@ -9,7 +9,8 @@ Hi, I'm Sufyan Ahmed!
 	<a href="https://github.com/Bouaskaoun"><img src="https://readmetypingsvg.herokuapp.comlines=Computer+Student;Full+Stack+Web+Developer;Freelancer;Entrepreneur&center=true&width=380&height=45">
 	</a>
 </p>
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
