@@ -58,7 +58,7 @@ Hi, I'm Sufyan Ahmed!
   </a>
 &emsp;
   <a href="https://angular.io" target="_blank"> 
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img alt="Angular" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
   </a>
 </p>
 
