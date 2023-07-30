@@ -10,9 +10,10 @@ Hi, I'm Sufyan Ahmed!
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Student;Full+Stack+Web+Developer;Freelancer;Entrepreneur&center=true&width=380&height=45">
 	</a>
 </p>
-## 🛠️ My Skills
+<br/>
+🛠️ My Skills
 
-### 👉 Programming languages
+ 👉 Programming languages
 
 <p align="left"> 
   &emsp; 
