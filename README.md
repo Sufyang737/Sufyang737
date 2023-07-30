@@ -15,6 +15,6 @@ Hi, I'm Sufyan Ahmed!
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Student;Full+Stack+Web+Developer;Freelancer;Enthusiasticthings&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Student;Full+Stack+Web+Developer;Freelancer;Entrepreneur&center=true&width=380&height=45">
 	</a>
 </p>
