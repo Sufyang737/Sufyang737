@@ -44,6 +44,7 @@
    ![Redux](https://img.shields.io/badge/-Redux-593D88?style=for-the-badge&logo=Redux&logoColor=white)
    ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=Next&logoColor=white)
    ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+   ![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br>
 
